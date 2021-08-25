@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+dbmon-manager
 
 # Test binary, built with `go test -c`
 *.test
